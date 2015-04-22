@@ -48,6 +48,7 @@ https://github.com/nVisium/django.nV
 ## Meeting my heroes / finding out they're real people
 - Guido: "Fanboys, eh?"
 - David Beazley: OMG WTF ASYNCIO
+- Alex Gaynor (PSF director): talked real talk about Twitter/snarkiness
 - Raymond Hettinger: just showed up in line for lunch!
 - People who just sat down with me for lunch:
     - Gary Bernhardt (destroyallsoftware / "wat", closing keynote)
