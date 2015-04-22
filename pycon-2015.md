@@ -8,7 +8,7 @@ http://pyvideo.org/category/65/pycon-us-2015
 - Good material, good delivery, lots of Unix stuff I didn't know
 
 ### [Python Concurrency From the Ground Up: LIVE!](http://pyvideo.org/video/3432/python-concurrency-from-the-ground-up-live)
-- @_@
+- [@_@](http://www.reactiongifs.com/r/2011/09/mind_blown.gif)
 - lulz: https://youtu.be/MCs5OvhV9S4?t=42m17s
 
 ### [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=PiBfOFqDIAI)
