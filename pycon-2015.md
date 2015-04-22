@@ -42,7 +42,7 @@ http://pyvideo.org/category/65/pycon-us-2015
 https://www.python.org/dev/peps/pep-0484/
 - Video's nothing special; exciting proposal, though
 
-### Poster: Django.nV: The Intentionally Vulnerable Django App
+## Poster: Django.nV: The Intentionally Vulnerable Django App
 https://github.com/nVisium/django.nV
  
 ## Meeting my heroes / finding out they're real people
