@@ -4,10 +4,10 @@
 https://us.pycon.org/2015/schedule/talks/list/
 http://pyvideo.org/category/65/pycon-us-2015
 
-### [Type python, press enter. What happens?](http://pyvideo.org/video/3459/type-python-press-enter-what-happens)
+### [Type python, press enter. What happens?](https://www.youtube.com/watch?v=XVhSjZYwZJo)
 - Good material, good delivery, lots of Unix stuff I didn't know
 
-### [Python Concurrency From the Ground Up: LIVE!](http://pyvideo.org/video/3432/python-concurrency-from-the-ground-up-live)
+### [Python Concurrency From the Ground Up: LIVE!](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 - [@_@](http://www.reactiongifs.com/r/2011/09/mind_blown.gif)
 - lulz: https://youtu.be/MCs5OvhV9S4?t=42m17s
 
@@ -30,7 +30,7 @@ http://pyvideo.org/category/65/pycon-us-2015
 - Skip the pledge/turn; here's the prestige: https://youtu.be/bYQ_lq5dcvM?t=20m6s
 - Bonus round: https://youtu.be/bYQ_lq5dcvM?t=26m20s
 
-### [Advanced Git](http://pyvideo.org/video/3392/advanced-git)
+### [Advanced Git](https://www.youtube.com/watch?v=4EOZvow1mk4)
 - Good, dense walkthrough; Jonathan and I both got a few good tips out of it.
 
 ### Have only watched parts of these, but heard really positive reviews:
