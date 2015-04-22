@@ -4,17 +4,14 @@
 https://us.pycon.org/2015/schedule/talks/list/
 http://pyvideo.org/category/65/pycon-us-2015
 
-### Type python, press enter. What happens?
-http://pyvideo.org/video/3459/type-python-press-enter-what-happens
+### [Type python, press enter. What happens?](http://pyvideo.org/video/3459/type-python-press-enter-what-happens)
+- Good material, good delivery, lots of Unix stuff I didn't know
 
-### Python Concurrency From the Ground Up: LIVE!
-http://pyvideo.org/video/3432/python-concurrency-from-the-ground-up-live
+### [Python Concurrency From the Ground Up: LIVE!](http://pyvideo.org/video/3432/python-concurrency-from-the-ground-up-live)
 - @_@
-- https://youtu.be/MCs5OvhV9S4?t=42m17s
+- lulz: https://youtu.be/MCs5OvhV9S4?t=42m17s
 
-### PyPy.js: What? How? Why?
-http://pyvideo.org/video/3441/pypyjs-what-how-why-0
-https://www.youtube.com/watch?v=PiBfOFqDIAI
+### [PyPy.js: What? How? Why?](https://www.youtube.com/watch?v=PiBfOFqDIAI)
 - Demo: start at https://youtu.be/PiBfOFqDIAI?t=6m22s
 - 3 goals:
     - Compatibility: handle numbers, etc. like Python, not JS
@@ -29,20 +26,17 @@ https://www.youtube.com/watch?v=PiBfOFqDIAI
 - py2exe? how about py2web + webapp manifest + apk factor!
 - free stuff: Prolog!
 
-### Porting Python to run without an OS
-http://pyvideo.org/video/3471/porting-python-to-run-without-an-os
-https://www.youtube.com/watch?v=bYQ_lq5dcvM
+### [Porting Python to run without an OS](https://www.youtube.com/watch?v=bYQ_lq5dcvM)
 - Skip the pledge/turn; here's the prestige: https://youtu.be/bYQ_lq5dcvM?t=20m6s
 - Bonus round: https://youtu.be/bYQ_lq5dcvM?t=26m20s
 
-### Advanced Git
-http://pyvideo.org/video/3392/advanced-git
+### [Advanced Git](http://pyvideo.org/video/3392/advanced-git)
 - Good, dense walkthrough; Jonathan and I both got a few good tips out of it.
 
 ### Have only watched parts of these, but heard really positive reviews:
-- Beyond PEP 8 -- Best practices for beautiful intelligible code: https://www.youtube.com/watch?v=wf-BqAjZb8M (Hint: it's mostly not about PEP8!)
-- Super Considered Super: https://www.youtube.com/watch?v=EiOglTERPEo
-- Facts and Myths about Python names and values: https://www.youtube.com/watch?v=_AEJHKGk9ns
+- Raymond Hettinger: [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M) (Hint: it's mostly not about PEP8!)
+- Raymond Hettinger: [Super Considered Super](https://www.youtube.com/watch?v=EiOglTERPEo)
+- Ned Batchelder: [Facts and Myths about Python names and values](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 
 ## Type hints (PEP 484)
 https://www.python.org/dev/peps/pep-0484/
@@ -56,7 +50,7 @@ https://github.com/nVisium/django.nV
 - David Beazley: OMG WTF ASYNCIO
 - Raymond Hettinger: just showed up in line for lunch!
 - People who just sat down with me for lunch:
-    - Gary Bernhardt (destroyallsoftware / "wat")
+    - Gary Bernhardt (destroyallsoftware / "wat", closing keynote)
     - Nate Aune (Jazkarta / Appsembler), Anna Callahan (ZoomTilt), and baby!
 - Asheesh Laroia: "THAT Sandstorm.io??"
 - Harry Percival: begrudging selfie -> bottle of vodka for the table
