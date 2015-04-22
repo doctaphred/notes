@@ -20,7 +20,7 @@ http://pyvideo.org/category/65/pycon-us-2015
 - PyPy + Emscripten -- LLVM-to-JS compiler (asm.js)
 - Explanation: start at https://youtu.be/PiBfOFqDIAI?t=14m1s
 - "It's awful all the way down"
-- arewepythonyet.com
+- [arewepythonyet.com](http://arewepythonyet.com/)
 - faster than CPython on !Chrome
 - > 20 MB JS downloads o_O
 - py2exe? how about py2web + webapp manifest + apk factor!
