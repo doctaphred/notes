@@ -26,6 +26,7 @@
 - https://github.com/amark/gun
 - https://github.com/clojure/clojurescript
 
+
 ## General dev stuff
 - gitignore.io
 - aws lambda
@@ -34,6 +35,11 @@
 - coconut: http://coconut-lang.org
 - git tips: https://github.com/git-tips/tips
 - slowy: http://slowyapp.com
+- https://ngrok.com
+
+
+## Infrastructure
+- https://syncthing.net
 
 
 ## IaaS
@@ -74,6 +80,8 @@
 - masscan: https://github.com/robertdavidgraham/masscan
 - https://github.com/robertdavidgraham/isowall
 - https://www.wireshark.org
+- Firebug: http://getfirebug.com
+- Fiddler free web proxy: http://www.telerik.com/fiddler
 
 
 ## Ops
@@ -89,7 +97,11 @@
     - https://github.com/guarinogabriel/Mac-CLI/blob/master/mac-cli/plugins/general
 - geektool: http://projects.tynsoe.org/en/geektool/
 - iStats: https://github.com/Chris911/iStats
-
+- window managers
+    - https://github.com/kasper/phoenix
+    - https://github.com/sdegutis/mjolnir
+    - https://github.com/koekeishiya/kwm
+    - https://github.com/ianyh/Amethyst
 
 ## Mac apps
 
